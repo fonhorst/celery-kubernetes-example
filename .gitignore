@@ -2,3 +2,6 @@
 __pycache__
 *.sw[op]
 *.py[oc]
+
+.idea
+*.iml
